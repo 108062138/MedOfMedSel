@@ -1,0 +1,3 @@
+﻿  fth.cpp
+C:\Users\USER\Desktop\fth\fth\fth.cpp(63,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  fth.vcxproj -> C:\Users\USER\Desktop\fth\Debug\fth.exe
